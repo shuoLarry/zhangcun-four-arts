@@ -12,7 +12,7 @@ from urllib.parse import unquote, urlsplit
 
 
 EXPECTED_PAGES = (
-    "index.html", "qrcodes.html", "stories/shezhi.html",
+    "index.html", "stories/shezhi.html",
     "stories/zhubian.html", "stories/sunkehua.html", "stories/shexiang.html",
 )
 SKIP_DIRS = {".git", "node_modules", "_site", "_qa"}
