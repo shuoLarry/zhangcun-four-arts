@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+!.env.example
+_site/
+_qa/
+*.log
